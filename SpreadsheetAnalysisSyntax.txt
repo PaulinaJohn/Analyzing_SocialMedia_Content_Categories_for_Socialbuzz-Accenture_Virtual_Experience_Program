@@ -1,0 +1,20 @@
+First, in a new sheet, I used the UNIQUE() function to get a unique list of the categories.
+-- I also used named ranges to make the ranges I am using in my analysis more descriptive.
+--Here's my syntax
+-- Without named ranges - UNIQUE(MergedSocialbuzzData!B2:B24574)
+-- With named ranges- UNIQUE(category)
+
+-- Then, I used 'SUMIF' to get the total reaction score for each category, with the below syntax
+-- Without named ranges- =SUMIf(MergedSocialbuzzData!$B$2:$B$24574, A2, MergedSocialbuzzData!$F$2:$F$24574)
+-- With named ranges- =SUMIf(category, A2, reactionscore)
+
+-- And I used the Sort() function to sort in descending order
+-- =SORT(A3:B18, B3:B18, False)
+
+-- I thought to share the formulas here because you will not find any formula in my final spreadsheet. 
+-- It is good practice to always copy and paste results as 'values only' after creating a calculated column through a formula or function, so it does not interfere in subsequent analyses.
+
+-- Also note that the aggregating and sorting step can be achieved with pivot tables too.
+
+Thank you!
+
