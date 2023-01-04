@@ -1,3 +1,7 @@
-# Analyzing_Social_media_Content_Categories_for_Socialbuzz--Accenture_Virtual_Experience_Program
+I got on the accenture data analytics [virtual experience program](https://www.theforage.com/fast-track/data-analytics-virtual-experience/overview?ref=BoPbiqx5GRLbyYXPu) in which I helped Social Buzz, a fast-growing social media technology unicorn
 
-[View the PowerBi Dashoard](https://app.powerbi.com/groups/7de97d59-57ae-4b56-b773-823c89aa5d3c/reports/b49d4f59-43a3-4199-a5dd-09563128b825/ReportSection)
+
+<img width="532" alt="Analysis_report" src="https://user-images.githubusercontent.com/86304211/210614087-91344a98-a20b-4a16-b4e9-4a7a3c53f3d0.PNG">
+
+
+View the 
