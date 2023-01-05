@@ -2,6 +2,13 @@ I got on the Accenture data analytics [virtual experience program](https://www.t
 
 Social Buzz is dealing with high influx of users each month and highly unstructured content daily. It needs help with scaling its processes to handle this volume and variety of data and wants to find out its top 5 most popular content categories, amongst other insights.
 
+I found this project interesting as, instead of using only one technoloygy (Spreadsheets), I decided to create a flow around three different technologies - SQL, Spreadsheets and Bi.
+
+I used SQL(MSSQL) for cleaning and merging my data, Spreadsheets (Google Sheets) for analysis and a BI tool (PowerBi) for creating my visualizations. 
+
+The most interesting part for me was sharing my insights through presentation preparation and delivery. 
+View my slides here
+
 
 
 
