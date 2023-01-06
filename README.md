@@ -2,7 +2,7 @@ I got on the [Accenture Data Analytics and Visualization Virtual Experience](htt
 
 Social Buzz is dealing with a high monthly influx of users and daily influx of unstructured content. Asides needing help with scaling its processes to handle this volume and variety of data, it wants to find out its top 5 most popular content categories, amongst other insights.
 
-I found this project interesting as, instead of using only one technoloygy (spreadsheets), I decided to create a flow around three different technologies - SQL(MSSQL), spreadsheets (Google Sheets) and a Bi tool (PowerBi).
+I found this project interesting as, instead of using only one technoloygy (spreadsheets), I decided to create a flow around three different technologies - SQL (MSSQL), spreadsheets (Google Sheets) and a Bi tool (PowerBi).
 
 I used MSSQL for cleaning and merging my data, Google Sheets for analysis and PowerBi for creating my report, shown below
 
