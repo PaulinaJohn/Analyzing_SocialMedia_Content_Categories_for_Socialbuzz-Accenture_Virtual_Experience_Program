@@ -54,7 +54,7 @@ I will also do some data transformation, like renaming some columns to make them
 The columns I need from the content dataset are content ID, category, content type.
 */
 -- From inspecting table description, only the URL column is not constrained to 'NOT NULL' and it is the only column with null values.
--- I don't need the column anyways so we'll just exclude it from our final result instead of using it in a where clause to get rid of rows with null values.
+-- I don't need the column anyways so we'll just exclude it from my final result instead of using it in a WHERE clause to get rid of rows with null values.
 
 -- I checked for distinct values in the Category column. So I can address all dirty data issues at once.
 SELECT DISTINCT Category
