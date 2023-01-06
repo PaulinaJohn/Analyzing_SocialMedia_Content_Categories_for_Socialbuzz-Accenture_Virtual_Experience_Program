@@ -76,7 +76,6 @@ SELECT Content_ID,  LOWER(REPLACE(Category,'"', '')) AS Category, Type AS Conten
 --Note that REPLACE is not a DML as it doesn't get rid of the value inconsistency issue in the original dataset. The changes only reflect in the cleaned dataset.
 FROM
 socialbuzz.Content
---SELECT DISTINCT Category FROM test_cte
 
 -- I used 'Script table as' to see the table description, so as to identify columns not constrained as 'Not Null' as these are the columns that could have null values.
 -- Only the URL column contains null values and we don't need the column itself so, no need to add a WHERE clause to filter for non-null rows.
