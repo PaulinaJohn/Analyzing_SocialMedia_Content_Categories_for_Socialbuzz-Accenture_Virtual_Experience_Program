@@ -1,4 +1,4 @@
-I got on the Accenture data analytics [virtual experience program](https://www.theforage.com/fast-track/data-analytics-virtual-experience/overview?ref=BoPbiqx5GRLbyYXPu) in which I helped Social Buzz, a fast-growing social media technology unicorn analyse their content categories.
+I got on the [Accenture Data Analytics and Visualization Virtual Experience](https://www.theforage.com/fast-track/data-analytics-virtual-experience/overview?ref=BoPbiqx5GRLbyYXPu) in which I helped Social Buzz, a fast-growing social media technology unicorn analyse their content categories.
 
 Social Buzz is dealing with a high monthly influx of users and daily influx of unstructured content. Asides needing help with scaling its processes to handle this volume and variety of data, it wants to find out its top 5 most popular content categories, amongst other insights.
 
