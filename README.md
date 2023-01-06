@@ -2,6 +2,9 @@ I got on the Accenture data analytics [virtual experience program](https://www.t
 
 Social Buzz is dealing with a monthly influx of users and daily influx of highly unstructured content. Asides needing help with scaling its processes to handle this volume and variety of data, it wants to find out its top 5 most popular content categories, amongst other insights.
 
+ocial Buzz is dealing with a high monthly influx of users and daily influx of unstructured content. Asides needing help with scaling its processes to handle this volume and variety of data, it wants to find out its top 5 most popular content categories, amongst other insights.
+
+
 Interesting aspects of this work for me, have to be:
 
 -Pausing on my love for Python (my favourite language) and reaching for other tools in my toolkit to implement my solution, as well as, switching through three different technologies to get the job done, even though the program allowed me to use just Spreadsheets. 
