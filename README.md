@@ -2,7 +2,9 @@ I got on the Accenture data analytics [virtual experience program](https://www.t
 
 Social Buzz is dealing with a monthly influx of users and daily influx of highly unstructured content. Asides needing help with scaling its processes to handle this volume and variety of data, it wants to find out its top 5 most popular content categories, amongst other insights.
 
+One interesting part of this project for me, was pausing on python (my favourite tool) and reaching for other tools in my toolkit to implement my solution.
 
+Another interesting one has to be switching through three technologies on this project, although the 
 
 I found this project interesting as, instead of using only one technoloygy (Spreadsheets), I decided to create a flow around three different technologies - SQL, Spreadsheets and Bi.
 
