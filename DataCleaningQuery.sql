@@ -10,7 +10,7 @@ CREATE  SCHEMA socialbuzz;
 going forward, I will approach the task like I am a junior Data Analyst who has been restricted from using most DDL and DML languages when working with this database, 
 but I have been asked to fetch a cleaned subset of each of the three datasets that will be needed to execute the requirements from Socialbuzz anyways. 
 Oftentimes, intern and junior analysts are restricted from such administrator privileges and only allowed to use mainly query language and commands to get tasks done,
-so, it helps to get used to how to achieving what's required without being held back by the restriction.
+so, it helps to get used to how to achieve what's required without being held back by the restriction.
 This is one way I demonstrate my problem-solving skill and analytical mindset.
 
 There are usually a number of ways to solve these problems.
