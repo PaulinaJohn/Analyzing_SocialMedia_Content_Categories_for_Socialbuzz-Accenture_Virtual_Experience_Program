@@ -14,7 +14,7 @@ so, it helps to get used to how to achieve what's required without being held ba
 This is one way I demonstrate my problem-solving skill and analytical mindset.
 
 There are usually a number of ways to solve these problems.
-However, a SELECT statement using a number of commands to to mop up dirty data issues, coupled with a WHERE clause where necessary, works in this case. 
+However, a SELECT statement using a number of commands to mop up dirty data issues, coupled with a WHERE clause where necessary, works in this case. 
 I can save the cleaned dataset as a view and export it as a csv file.
 */
 
